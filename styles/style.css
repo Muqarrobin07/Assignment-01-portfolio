@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* banner title */
+
+.banner{
+    padding: 200px 200px 200px 700px;
+    text-align: right;
+}
+.banner-title {
+    font-weight: 600;
+    font-size: 55px;
+    color: #151414;
+}
+.banner-description {
+    color: #444343;
+    font-size: 16px;
+    text-align: right;
+    margin-bottom: 24px;
+    margin-top: 24px;
+    
+    
+}
+.header{
+    background: #FFF8F3;
+    display: flex;
+    justify-content: center;
+    background-image: url(../images/banner/banner1.png);
+    
+}
+.btn-primary{
+  color: brown;
+  background-color: coral;
+}
+.banner-two{
+    padding: 0px 200px 200px 0px;
+    margin-top: 370px;
+}
+.banner-title-two{
+    font-weight: 600;
+    font-size: 55px;
+    color: #151414;
+    margin-bottom: 24px;
+}
+.banner-description-two{
+    color: #444343;
+    font-size: 16px;
+}
+
+.list-class-title{
+    margin-top: 16px;
+    list-style: none;
+
+}
+.image-section{
+    padding: 100px;
+    
+}
+.image-div{
+    display: flex;
+}
+.imagk{
+    width: 569px;
+    height: 723.3px;
+    left: 206px;
+}
+.protection{
+    width: 500px;
+    margin: 50px 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.plan  {
+    margin-left: 100px;
+    width: 250px;
+}
+.imga{
+    padding: 10px;
+}
+.planning{
+    width: 800px;
+    margin: auto;
+text-align: center;
+font-size: 40px;
+    font-weight: 600;
+    color: #151414;
+}
+.plan h2{
+    font-size: 20px;
+    font-weight: 600;
+}
+.filter{
+    width: 500px;
+    margin-top: 20px;
+    
+    color:orangered;
+}
+.min{
+    width: 80px;
+    margin-top: 20px
+    
+    background-color: white;
+    color: orangered;
+}
+
+.png{
+    height: 500px;
+background-image: url('../images/watch.png'), url(../images/gradient2.png);
+background-repeat: no-repeat;
+
+margin: 50px 150px;
+}
+.port{
+    width: 500px;
+    margin:50px;
+    
+}
+.max{
+    background-color: black;
+    color: white;
+    width: 1600px;
+    height: 577px; 
+    display: flex;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+.init{
+    font-weight: 700;
+    font-size: 45px;
+}
+.mid{
+    margin-top: 20px;   
+}
+.gmail{
+    margin-top: 20px;
+}
+.number{
+    margin-top: 30px;
+}
+.enter{
+    margin-left: 300px;
+    margin-top: 100px ;
+    font: size 10px ;
+}
+.tat{
+    width: 100px;
+    height: 45px;
+   background-color: whitesmoke; 
+   color: orange;
+}
+.ping{
+   margin-top: 300px;
+   
+   
+}
+    
+
+    
